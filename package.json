@@ -1,0 +1,15 @@
+{
+  "name": "karoldanko",
+  "version": "1.0.0",
+  "description": "npx business card of Karol Danko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./cli.js",
+  "author": "Karol Danko",
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  }
+}
